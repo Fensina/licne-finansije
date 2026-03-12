@@ -1,0 +1,16 @@
+{
+  "name": "licne-finansije-tracker",
+  "version": "1.0.0",
+  "description": "Jednostavna web aplikacija za praćenje ličnih finansija (dnevno, mesečno, godišnje) uz čuvanje podataka u localStorage.",
+  "scripts": {
+    "start": "echo \"Otvori index.html u pregledaču.\""
+  },
+  "keywords": [
+    "personal-finance",
+    "budget",
+    "tracker"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
